@@ -1,0 +1,27 @@
+
+body {
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+h1,
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul,
+ol{
+    display: inline-block;
+    text-align: left;
+}
+
+p,
+li{
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.sushiimg {
+    width: 600px;
+}
